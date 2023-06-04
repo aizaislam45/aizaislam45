@@ -1,16 +1,20 @@
-### Hi there 👋
+<html>
+  <div align="center">
+<h1>           Aiza Islam <h1>
+  </div>
+  
+## ABOUT ME
 
-<!--
-**aizaislam45/aizaislam45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Aiza Islam
 
-Here are some ideas to get you started:
+Thanks for stopping by and feel free to reach out if you have any questions or want to collaborate on a project!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ***
+ 
+![Aiza's GitHub stats](https://github-readme-stats.vercel.app/api?username=aizaislam45&show_icons=true&theme=radical)
+  
+***
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aizaislam45&layout=compact)](https://github.com/aizaislam45/github-readme-stats)
+ 
+ ***
