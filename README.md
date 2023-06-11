@@ -4,7 +4,7 @@
 
 ## About Me
 
-I'm Aiza Islam, a passionate [your profession or field] with a love for [specific interests or technologies]. I enjoy exploring new technologies and building exciting projects.
+I'm Aiza Islam, a passionate software engineering student with a love for data analytics, machine learning and artificial intelligence. I enjoy exploring new technologies and building exciting projects.
 
 Feel free to reach out if you have any questions or want to collaborate on a project!
 
