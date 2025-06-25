@@ -4,13 +4,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aizaislam45&label=Profile%20views&color=0e75b6&style=flat" alt="aizaislam45" /> </p>
 
 
-- 🔭 I’m currently working on *Clinical Decision Support System*
+- 🔭 I’m currently doing Masters in *Data Science and Artificial Intelligence*
 
 - 🌱 I’m currently learning *Power BI, Tableau,*
 
 - 👨‍💻 All of my projects are available at [https://github.com/aizaislam45?tab=repositories](https://github.com/aizaislam45?tab=repositories)
 
-- 💬 Ask me about *Data Science, Machine Learning, Web Development*
+- 💬 Ask me about *Data Science, Data Analytics, Machine Learning*
 
 - 📫 How to reach me *aizaislam11@gmail.com*
 
